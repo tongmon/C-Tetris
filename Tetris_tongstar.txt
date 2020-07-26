@@ -1,0 +1,3 @@
+You can start game with Tetris.exe file
+
+-Made by tongstar-
